@@ -1,0 +1,42 @@
+[
+    {
+        "model": "my_project_app.categories",
+        "pk": 1,
+        "fields":{
+            "category":"Community",
+            "description":"Speak with local individuals over pretty much anything you want. We just ask that all topics remain appropriate. Thank you"
+        }
+    },
+    {
+        "model": "my_project_app.categories",
+        "pk": 2,
+        "fields":{
+            "category":"Housing",
+            "description":"It can be stressful to find a new home. Luckily, this section is filled with agents who are more than willing to help you achieve your goal in becoming an owner of your new forever home."
+        }
+    },
+    {
+        "model": "my_project_app.categories",
+        "pk": 3,
+        "fields":{
+            "category":"Jobs",
+            "description":"Need a Job? Quickly skim through the job postings here and find the most convenient job for you."
+        }
+    },
+    {
+        "model": "my_project_app.categories",
+        "pk": 4,
+        "fields":{
+            "category":"Sale",
+            "description":"Don't throw that away. Instead come here and post your item for sale, or even better buy something you may need from a friendly neighbor who will sell to you for a fair price."
+        }
+    },
+    {
+        "model": "my_project_app.categories",
+        "pk": 5,
+        "fields":{
+            "category":"Services",
+            "description":"Need something done? Someone locally will be more than happy to lend a hand in their individual skillsets"
+        }
+    }
+]
