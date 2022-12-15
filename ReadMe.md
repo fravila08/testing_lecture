@@ -77,15 +77,7 @@ Enter my_project, makemigrations, migrate, loaddata, and start the server
   python3 manage.py loaddata data.json
   python3 manage.py runserver
 ```
-## Installation
 
-Install my-project with npm
-
-```bash
-  
-  npm install my-project
-  cd my-project
-```
     
 ## External Resources
 
